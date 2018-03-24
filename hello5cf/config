@@ -1,0 +1,21 @@
+{
+    "app_name":"hello5coffee",
+    "server":"gbcstaging.zing.vn/vpos",
+    "mc":"hello5coffee",
+    "server_alert_email":"https://gbcstaging.zing.vn/monitorservice/api/reqalert/?",
+    "email_sub":"[HELLO 5 COFFEE] THÔNG BÁO",
+    "listemailto":"tamvh@vng.com.vn",
+    "listemailcc":"",
+    "httptrans":"https",
+    "wstrans":"wss",
+    "apptitle":"Hello 5 Coffee",
+    "billpreinf":"432 Nguyen Thi Minh Khai, P.5, Q.3, TP.HCM",
+    "billpostinf":"Cam on quy khach, hen gap lai",
+    "sobanin":1,
+    "printersize":"large",
+    "tenbanin":"cua hang giu;giao khach",
+    "dockserver":"192.168.1.1",
+    "dockversion":"2.0",
+    "device_type":"raspberrypi3",
+    "branch":"Hello 5 Coffee - Chi nhánh Sài Gòn Giải Phóng"
+}
